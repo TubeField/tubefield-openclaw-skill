@@ -1,2 +1,7 @@
-# tubefield-openclaw-skill
-Use TubeField (tubefield.com) for YouTube-native research: search videos, inspect metadata, read transcripts, sample public comments, and analyze playlists or channels when tools are available.
+# TubeField OpenClaw Skill
+
+OpenClaw skill for connecting to TubeField’s remote MCP server.
+
+TubeField provides live YouTube data including video metadata, transcripts, comments, search, playlists, and channel information.
+
+See `SKILL.md` for installation and usage instructions.
